@@ -1,0 +1,9 @@
+# Configurações de Endpoint e Chave de Assinatura do Azure Cognitive Services
+ENDPOINT="https://resource-name.cognitiveservices.azure.com/"
+SUBSCRIPTION_KEY="key"
+
+# Connection String para Azure Storage
+AZURE_STORAGE_CONNECTION_STRING="DefaultEndpointsProtocol=https;AccountName=accountname;AccountKey=key;EndpointSuffix=core.windows.net"
+
+# Nome do Container no Azure Storage
+CONTAINER_NAME="cartoes"
